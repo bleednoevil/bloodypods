@@ -3,7 +3,7 @@ macOS Bash scripts that map Bluetooth headphone gestures and button presses to a
 
 > ⚠️ **Patent Pending – Offensive/Defensive Research Disclosure**  
 > This project contains inventions for which a **U.S. Provisional Patent Application has been filed**.  
-> **Author:** Ray Cervantes | *Military Endgame Simulation Theorist*  
+> **Author:** Ray Cervantes
 
 ## 📜 Patent & Intellectual Property Notice
 
