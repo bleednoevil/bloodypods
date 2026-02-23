@@ -61,7 +61,7 @@ payloads[9]='echo " (*_*) (*_*) "'
 
 # Generate remaining payloads with simple echo commands
 for i in $(seq 10 $((total_payloads-1))); do
-  payloads[$i]="echo \"Payload $i executed at \$(date)\" >> ~/bloodypods_log.txt"
+  payloads[$i]="echo \"Payload $i executed at \$(date)\" >> ~/Users/your_macos_username/bloodypods_log.txt"
 done
 
 # Function to load/arm payload (not execute yet)
